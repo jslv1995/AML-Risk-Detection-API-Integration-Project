@@ -1,0 +1,9 @@
+# Ignore venv
+.venv/
+.env/
+
+# Ignore unused folder
+data/
+
+# Ignore macOS system files
+.DS_Store
